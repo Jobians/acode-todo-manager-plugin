@@ -1,0 +1,20 @@
+{
+  "id": "jobians.todo.manager",
+  "name": "Todo Manager",
+  "main": "main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [],
+  "minVersionCode" : 290,
+  "license": "MIT",
+  "changelogs": "changelogs.md",
+  "repository": "https://github.com/jobians/acode-todo-manager-plugin",
+  "keywords": ["Todo", "Tasks"],
+  "price": 0,
+  "author": {
+    "name": "JOBIANSTECHIE",
+    "email": "jobianstechie@gmail.com",
+    "github": "jobians"
+  }
+}
